@@ -16,7 +16,7 @@
             ${param.content}    <%--各ページのビューの内容が入る --%>
         </div>
         <div id = "footer">
-            フッター
+
         </div>
     </body>
 </html>
